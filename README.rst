@@ -1,7 +1,7 @@
 MOM6-tools
 ============
-.. image:: https://travis-ci.com/gustavo-marques/mom6-tools.svg?style=for-the-badge
-    :target: https://travis-ci.org/gustavo-marques/mom6-tools
+.. image:: https://travis-ci.com/NCAR/mom6-tools.svg?style=for-the-badge
+    :target: https://travis-ci.org/NCAR/mom6-tools
     :alt: Build Status
 
 .. image:: https://img.shields.io/readthedocs/mom6-tools/latest.svg?style=for-the-badge
